@@ -1,2 +1,2 @@
-# zabarnes.github.io
+# zachabarnes.github.io
 Personal website
